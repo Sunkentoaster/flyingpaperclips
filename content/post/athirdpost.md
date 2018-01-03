@@ -1,7 +1,6 @@
 +++
-categories = []
 date = "2017-08-21T11:43:28-07:00"
-tags = []
+categories = ["cat1"]
 title = "athirdpost"
 
 +++

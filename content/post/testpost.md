@@ -1,11 +1,13 @@
 +++
 banner = "banners/placeholder.png"
-categories = []
 date = "2017-08-21T11:43:21-07:00"
-tags = []
+categories = ["cat2"]
 title = "testpost"
 menu = ""
 
 +++
 
 First page
+
+
+whazzup
