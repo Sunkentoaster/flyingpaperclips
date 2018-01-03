@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title><$MTBlogName encode_html="1"$></title>
+
+<link rel="stylesheet" href="mt-templates/style.css" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="<$MTBlogURL$>atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSS 1.0" href="<$MTBlogURL$>index.rdf" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="<$MTBlogURL$>index.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="<$MTBlogURL$>rsd.xml" />
+
+<MTBlogIfCCLicense>
+<$MTCCLicenseRDF$>
+</MTBlogIfCCLicense>
+
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="banner">
+<h1><a href="<$MTBlogURL$>" accesskey="1"><$MTBlogName encode_html="1"$></a></h1>
+<h2><$MTBlogDescription$></h2>
+</div>
+<div id="left">
+	<img src="images/flyingpaperclip.jpg" />
+</div>
+<div id="center">
+<div class="content">
+
+<MTEntries>
+<$MTEntryTrackbackData$>
+
+<MTDateHeader>
+<h2><$MTEntryDate format="%x"$></h2>
+</MTDateHeader>
+
+<h3 id="a<$MTEntryID pad="1"$>"><$MTEntryTitle$></h3>
+
+<$MTEntryBody$>
+
+<MTEntryIfExtended>
+<p class="extended"><a href="<$MTEntryPermalink$>#more">Continue reading "<$MTEntryTitle$>"</a></p>
+</MTEntryIfExtended>
+
+<p class="posted">Posted by <$MTEntryAuthor$> at <a href="<$MTEntryPermalink valid_html="1"$>"><$MTEntryDate format="%X"$></a>
+<MTEntryIfAllowComments>
+| <a href="<$MTEntryPermalink archive_type="Individual"$>#comments">Comments (<$MTEntryCommentCount$>)</a>
+</MTEntryIfAllowComments>
+<MTEntryIfAllowPings>
+| <a href="<$MTEntryPermalink archive_type="Individual"$>#trackbacks">TrackBack (<$MTEntryTrackbackCount$>)</a>
+</MTEntryIfAllowPings>
+</p>
+
+</MTEntries>
+
+</div>
+</div>
+
+<div id="right">
+<div class="sidebar">
+
+<h2>Search</h2>
+ 
+<div class="link-note">
+<form method="get" action="<$MTCGIPath$><$MTSearchScript$>">
+<input type="hidden" name="IncludeBlogs" value="<$MTBlogID$>" />
+<label for="search" accesskey="4">Search this site:</label><br />
+<input id="search" name="search" size="20" /><br />
+<input type="submit" value="Search" />
+</form>
+</div>
+
+<div id="categories">
+<h2>Categories</h2>
+
+<MTSubCategories>
+<MTSubCatIsFirst><ul></MTSubCatIsFirst>
+<MTIfNonZero tag="MTCategoryCount">
+<li><a href="<$MTCategoryArchiveLink$>" title="<$MTCategoryDescription$>"><MTCategoryLabel></a>
+<MTElse>
+<li><MTCategoryLabel>
+</MTElse>
+</MTIfNonZero>
+<MTSubCatsRecurse max_depth="3">
+</li>
+<MTSubCatIsLast></ul></MTSubCatIsLast>
+</MTSubCategories>
+</div>
+
+<h2>Recent Entries</h2>
+
+<ul>
+<MTEntries lastn="10">
+<li><a href="<$MTEntryPermalink$>"><$MTEntryTitle$></a></li>
+</MTEntries>
+</ul>
+
+<h2>Site Links</h2>
+<ul>
+<li><a href="about.html">about this site</a></li>
+<li><a href="<$MTBlogURL$>index.rdf">Syndicate this site (XML)</a></li>
+</ul>
+
+<MTBlogIfCCLicense>
+<div class="link-note">
+<a href="<$MTBlogCCLicenseURL$>"><img alt="Creative Commons License" src="<$MTBlogCCLicenseImage$>" /></a><br />
+This weblog is licensed under a <a href="<$MTBlogCCLicenseURL$>">Creative Commons License</a>.
+</div>
+</MTBlogIfCCLicense>
+
+<div id="powered">
+Powered by<br /><a href="http://www.movabletype.org">Movable Type <$MTVersion$></a><br />    
+</div>
+
+</div>
+</div>
+
+<div style="clear: both;"> </div>
+
+</div>
+
+</body>
+</html>
