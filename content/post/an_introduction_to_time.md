@@ -1,24 +1,9 @@
-<div id="container">
++++
+date = "2004-10-23"
+categories = ["experiment"]
+title = "an introduction to time"
 
-<div id="banner">
-
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« can you blow a square bubble?](http://www.flyingpaperclips.com/2005/03/can_you_blow_a_square_bubble.html) | [Main](http://www.flyingpaperclips.com/) | [stop motion animation »](http://www.flyingpaperclips.com/2005/05/stop_motion_animation.html)</div>
-
-</div>
-
-<div class="content">
-
-## May 03, 2005
-
-<div class="blogbody">
-
-### an introduction to time
++++
 
 My friend Max Carlson volunteered to be a guest scientist for our regular Tuesday first grade science class. He suggested that we teach about time. We started out planning to do time-lapse photography with his fairly high-end setup, but as we brainstormed how to get the kids involved, he suggested doing something more immediate: stop motion animation.
 
@@ -51,9 +36,3 @@ My first animation was a moving block. I'm not sure they all understood what was
 I've always wanted to create stop-motion animation. Now, thanks to the local first grade and inspiration from my friend Max, I have my chance. I think this stuff is magic. It is unbelievably easy and cheap. I know everyone doesn't have a web cam in the house, but you can get one for $25\. My favorite is the pricier [Logitech QuickCam Pro](http://www.logitech.com/index.cfm/products/details/US/EN,CRID=2204,CONTENTID=5042). For $99, it has really nice optics, relative to other cameras in the same price range.
 
 I'll post the animations another day.
-
-<a name="more"></a><span class="posted">Posted by Sarah at May 3, 2005 08:14 PM</span> </div>
-
-</div>
-
-</div>

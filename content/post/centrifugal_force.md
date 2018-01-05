@@ -1,24 +1,9 @@
-<div id="container">
++++
+date = "2005-8-20"
+categories = ["experiment"]
+title = "centrifugal force"
 
-<div id="banner">
-
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« stop motion animation](http://www.flyingpaperclips.com/2005/05/stop_motion_animation.html) | [Main](http://www.flyingpaperclips.com/) | [observations »](http://www.flyingpaperclips.com/2005/09/observations.html)</div>
-
-</div>
-
-<div class="content">
-
-## August 20, 2005
-
-<div class="blogbody">
-
-### centrifugal force
++++
 
 This is a great outdoor activity and was one of the class favorites of the year.
 
@@ -36,8 +21,3 @@ I proceeded to give them the next challenge. They all exchanged the penny for a 
 
 When they had all mastered the second challenge, I explained that they now had to keep water in the cup. There were a few doubters, but they all were excited to give it a try. Everyone was successful and they kept at it till most of the cups had gotten soggy or fallen apart from the strain.
 
-<a name="more"></a><span class="posted">Posted by Sarah at August 20, 2005 08:53 AM</span> </div>
-
-</div>
-
-</div>

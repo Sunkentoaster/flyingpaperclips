@@ -1,24 +1,10 @@
-<div id="container">
++++
+date = "2005-03-08"
+categories = ["experiment"]
+title = "can you blow a square bubble?"
 
-<div id="banner">
++++
 
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« red cabbage as a pH indicator](http://www.flyingpaperclips.com/2005/03/red_cabbage_as_a_ph_indicator.html) | [Main](http://www.flyingpaperclips.com/) | [an introduction to time »](http://www.flyingpaperclips.com/2005/05/an_introduction_to_time.html)</div>
-
-</div>
-
-<div class="content">
-
-## March 08, 2005
-
-<div class="blogbody">
-
-### can you blow a square bubble?
 
 Materials:  
 - bubble mix in containers big enough for dipping the milk cartoon  
@@ -37,8 +23,4 @@ ideas:where
 - book: [365 Simple Science Experiments with Everyday Materials](http://www.amazon.com/exec/obidos/tg/detail/-/1884822673/103-8226817-8048638?v=glance)  
 - [more about bubbles](http://homeschooling.gomilpitas.com/explore/bubbles.htm)
 
-<a name="more"></a><span class="posted">Posted by Sarah at March 8, 2005 05:56 AM</span> </div>
 
-</div>
-
-</div>

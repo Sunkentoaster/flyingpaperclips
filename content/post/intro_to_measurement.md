@@ -1,24 +1,10 @@
-<div id="container">
++++
+date = "2005-02-03"
+categories = ["experiment"]
+title = "Intro to Measurement"
 
-<div id="banner">
++++
 
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« Titan](http://www.flyingpaperclips.com/2005/01/titan.html) | [Main](http://www.flyingpaperclips.com/) | [Invisible Ink »](http://www.flyingpaperclips.com/2005/02/invisible_ink.html)</div>
-
-</div>
-
-<div class="content">
-
-## February 03, 2005
-
-<div class="blogbody">
-
-### Intro to Measurement
 
 Typically I prepare for science class at the last minute and I've been really lucky. All my science experiments have worked out when tried the night before. I may have gotten too ambitious in creating my own [ferrofluid](http://www.pulse8.i8.com/indexmag.html) (I made ferromud) or building my own [thermometer](http://www.energyquest.ca.gov/projects/thermometer.html) (too easy to make the play-dough appear to change the temperature).
 
@@ -51,9 +37,3 @@ More from the [Origins of Measurement](http://www.factmonster.com/ipka/A0769529.
 **Foot**: In ancient times, the foot was 111/42 inches. Today it is 12 inches, the length of the average man's foot.
 
 **Pace**: The ancient Roman soldiers marched in paces, which were the length of a double step, about 5 feet; 1,000 paces was a mile. Today, a pace is the length of one step, 21/2 to 3 feet.
-
-<a name="more"></a><span class="posted">Posted by Sarah at February 3, 2005 09:00 PM</span> </div>
-
-</div>
-
-</div>

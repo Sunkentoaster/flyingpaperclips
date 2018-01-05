@@ -2,7 +2,7 @@ baseurl = "https://flyingpaperclips.com"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+#disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -30,24 +30,24 @@ paginate = 10
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "_**Flying Paperclips**_<div></div> articles and projects<div></div> to teach kids science"
 		# The icons will be shown if you enter your username
-		twitter = "spf13"
-		github = "spf13"
-		gitlab = "spf13"
-		dribbble = ""
-		facebook = ""
-		googleplus = ""
-		flickr = ""
-		linkedin = ""
+		twitter = "soaringsupplies"
+		github = "https://github.com/Sunkentoaster/flyingpaperclips"
+		#gitlab = "spf13"
+		#dribbble = ""
+		#facebook = ""
+		#googleplus = ""
+		#flickr = ""
+		#linkedin = ""
 
 		copyright = [
-			"&copy; John Doe",
+			"&copy; Sarah Allen",
 			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
+			#"Demo Images: [Unsplash](//unsplash.com/)"
 		]
 
 
 	[params.about]
-		hide  = false
+		hide  = true
 		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
 		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
 
@@ -101,16 +101,16 @@ paginate = 10
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "If you have any questions, suggestions, advice, or complaints, or if you want to add your own favorite experiments here, please let us know!"
 
 		# This can be exact coordinates or a searchable address in google maps
-		gmaps_address = "39.7889055,-120.5443524"
-		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
-		]
-		phone = "000-000-0000"
+		#gmaps_address = "39.7889055,-120.5443524"
+		#address = [
+			#"1234 Somewhere Rd.",
+			#"Nashville, TN 00000",
+			#"United States"
+		#]
+		#phone = "000-000-000
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -123,7 +123,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = "flyingpaperclips.contact@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native

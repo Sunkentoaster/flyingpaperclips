@@ -26,5 +26,3 @@ We asked them to put just three drops of water on each different material. They 
 Fortuitously it was a rainy day, and the teacher asked: what else repells water? did you wear something today that kept you from getting wet? "My raincoat!" and there was a chorus of "I have a raincoat too!" They all rushed to their lockers and compared raincoats. We talked about umbrellas and boots. It was amazingly fun and wonderful to see their faces in those moments of discovery.
 
 inspired by [UTexas First Grade Lab](http://www.utexas.edu/cons/uteachoutreach/students/create_lab/grade1.html)
-
-<a name="more"></a><span class="posted">Posted by Sarah at October 23, 2004 02:24 PM</span> </div>
