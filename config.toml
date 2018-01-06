@@ -1,6 +1,6 @@
 baseurl = "https://flyingpaperclips.com"
 languageCode = "en-us"
-title = "Strata"
+title = "Flying Paperclips"
 theme = "hugo-strata-theme"
 #disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -22,7 +22,7 @@ paginate = 10
 
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
-	custom_css  = []
+	custom_css  = ["site.css"]
 
 
 	[params.sidebar]
@@ -96,7 +96,7 @@ paginate = 10
 
 	[params.recentposts]
 		hide  = false
-		title = "experiments"
+		title = "Experiments"
 
 	[params.contact]
 		hide  = false
