@@ -1,4 +1,4 @@
-baseurl = "https://flyingpaperclips.com"
+baseurl = "https://flyingpaperclips-2004.firebaseapp.com/"
 languageCode = "en-us"
 title = "Flying Paperclips"
 theme = "hugo-strata-theme"
