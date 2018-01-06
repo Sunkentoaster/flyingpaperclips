@@ -1,24 +1,9 @@
-<div id="container">
++++
+date = "2005-02-22"
+categories = ["experiment"]
+title = "Invisible Ink"
 
-<div id="banner">
-
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« Intro to Measurement](http://www.flyingpaperclips.com/2005/02/intro_to_measurement.html) | [Main](http://www.flyingpaperclips.com/) | [red cabbage as a pH indicator »](http://www.flyingpaperclips.com/2005/03/red_cabbage_as_a_ph_indicator.html)</div>
-
-</div>
-
-<div class="content">
-
-## February 22, 2005
-
-<div class="blogbody">
-
-### Invisible Ink
++++
 
 There are many [different ways](http://www.kidzworld.com/site/p3844.htm) to create inivisible ink. I didn't want to use heat with a group of first graders, so we experimented at home with baking soda, vinegar, grape juice and red cabbage water (from [wikipedia](http://en.wikipedia.org/wiki/Invisible_ink#Disappearing_inks)).
 
@@ -35,9 +20,3 @@ I told the class that I had created the green liquid with food coloring and wate
 They tried the different liquids and recorded their results on a worksheet. When they were done, I introduced the words "acid" and "base" and asked them what we might do with what we learned from this experiment. None of them guessed that we could create invisible ink. We let them all write a message or draw a picture, to be revealed the following week...
 
 The next week every student revealed their own pictures. Many were hard or impossible to see, but two came out very nicely. If I were to do this again, I would have each student create several invisible pictures to provide more of a chance for success. In any case, they all seemed to enjoy the experiment.
-
-<a name="more"></a><span class="posted">Posted by Sarah at February 22, 2005 05:49 AM</span> </div>
-
-</div>
-
-</div>

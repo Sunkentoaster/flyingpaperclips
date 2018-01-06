@@ -1,24 +1,8 @@
-<div id="container">
-
-<div id="banner">
-
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« observations](http://www.flyingpaperclips.com/2005/09/observations.html) | [Main](http://www.flyingpaperclips.com/)</div>
-
-</div>
-
-<div class="content">
-
-## November 01, 2005
-
-<div class="blogbody">
-
-### observing spider webs
++++
+date = "2005-11-01"
+categories = ["activity"]
+title = "Observing Spider Webs"
++++
 
 Did yoy know that you can tell the species of spider from the pattern of the web? ![](http://www.spiderzrule.com/spiderphotos05/orbjun52_small.jpg)
 
@@ -26,13 +10,7 @@ The garden orb weaver on the right spins a classic orb web, but there are many v
 
 ![](http://pages.unibas.ch/dib/nlu/staff/sz/pics/zygiweb.gif)The Zygiella is so distinctive with clear gaps in its orb-weaver spiral that when I showed them the slideshow of webs, they nicknamed it the "pacman" web. They were all very excited when one boy found this web in the schoolyard and easily recognized it. It was science in action! The assignment was to search out the schoolyard for webs and draw one (or more) in their notebooks. One remarked that he had never seen a living spider in its web.
 
-Another fun activity that we did at home with a friend was  
-[catching a web](http://familyfun.go.com/parenting/learn/activities/feature/famf58animal/famf58animal5.html). On our outing, it was way more fun for the grown-ups. It may be better for older kids. (The web site recommends 8 and up.) Our 7-year-olds lacked the attention span, but they liked looking at the captured webs afterwards.
+The spider project with the class was a great success. They really liked going outside and looking at the schoolyard in a new way. It was fun for them to learn something about identifying spider webs and to apply it immediately.
 
-On the whole, the spider project with the class was a great success. They really liked going outside and looking at the schoolyard in a new way. It was fun for them to learn something about identifying spider webs and to apply it immediately.
+Another fun activity that we did at home with a friend was [catching a web](http://familyfun.go.com/parenting/learn/activities/feature/famf58animal/famf58animal5.html). On our outing, it was way more fun for the grown-ups. It may be better for older kids. (The web site recommends 8 and up.) Our 7-year-olds lacked the attention span, but they liked looking at the captured webs afterwards.
 
-<a name="more"></a><span class="posted">Posted by Sarah at November 1, 2005 10:53 AM</span> </div>
-
-</div>
-
-</div>

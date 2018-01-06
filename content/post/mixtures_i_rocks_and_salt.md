@@ -1,24 +1,9 @@
-<div id="container">
++++
+date = "2004-12-07"
+categories = ["experiment"]
+title = "Mixtures I: Rocks and Salt"
 
-<div id="banner">
-
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« Absorbency](http://www.flyingpaperclips.com/2004/10/absorbency.html) | [Main](http://www.flyingpaperclips.com/) | [Mixtures II: vinegar and baking soda »](http://www.flyingpaperclips.com/2005/01/mixtures_ii_vinegar_and_baking.html)</div>
-
-</div>
-
-<div class="content">
-
-## December 07, 2004
-
-<div class="blogbody">
-
-### Mixtures I: rocks and salt
++++
 
 Before the class, I filled a cup of water for each student about 3/4 full and marked the water level. I put 5 rocks and a small cup of salt on a paper towel in front of each student. I asked them to tell me what they observed about the objects in front of them. My son shouts out "it's salt!" I tell them to tell me what they observe, not what they think they know. (This is a difficult lesson that we keep going over.) I ask them if they hadn't seen the salt container on the counter, what other substance it could be. They seem to really get it when they realize it could be sugar also. I start a list on the board with two columns (one for the salt and one for the rocks) about their observations. It's neat when they start coming up with good adjectives and comparisons (like snow, but not cold).
 
@@ -38,9 +23,3 @@ Materials:
 [worksheet (word doc)](worksheets/mixtures.doc)
 
 inspired by [UTexas First Grade Lab](http://www.utexas.edu/cons/uteachoutreach/students/create_lab/grade1.html)
-
-<a name="more"></a><span class="posted">Posted by Sarah at December 7, 2004 02:29 PM</span> </div>
-
-</div>
-
-</div>

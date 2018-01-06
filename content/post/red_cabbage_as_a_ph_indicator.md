@@ -1,8 +1,7 @@
 +++
 date = "2005-03-01"
 categories = ["experiment"]
-title = "red cabbage as a pH indicator"
-
+title = "Red Cabbage as a pH Indicator"
 +++
 
 

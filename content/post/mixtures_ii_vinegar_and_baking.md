@@ -1,24 +1,8 @@
-<div id="container">
-
-<div id="banner">
-
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« Mixtures I: rocks and salt](http://www.flyingpaperclips.com/2004/12/mixtures_i_rocks_and_salt.html) | [Main](http://www.flyingpaperclips.com/) | [Flying Paperclips »](http://www.flyingpaperclips.com/2005/01/flying_paperclips.html)</div>
-
-</div>
-
-<div class="content">
-
-## January 04, 2005
-
-<div class="blogbody">
-
-### Mixtures II: vinegar and baking soda
++++
+date = "2005-01-04"
+categories = ["experiment"]
+title = "Mixtures II: Vinegar and Baking Soda"
++++
 
 In front of each child, I put a cup with the vinegar on top of a paper towel. Then I asked them to make observations about what was in the cup.
 
@@ -49,9 +33,3 @@ For each student,
 I tested this in advance to see that when mixed the bubbles filled the cup, but didn't overflow.
 
 inspired by [Magic Potion Science](http://www.kidzone.ws/science/magicpotion.htm)
-
-<a name="more"></a><span class="posted">Posted by Sarah at January 4, 2005 10:33 AM</span> </div>
-
-</div>
-
-</div>

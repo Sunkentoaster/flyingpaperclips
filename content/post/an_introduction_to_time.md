@@ -1,7 +1,7 @@
 +++
 date = "2004-10-23"
 categories = ["experiment"]
-title = "an introduction to time"
+title = "An Introduction to Time"
 
 +++
 

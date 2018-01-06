@@ -1,24 +1,9 @@
-<div id="container">
++++
+date = "2004-09-28"
+categories = ["experiment"]
+title = "Magnetism"
 
-<div id="banner">
-
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« Volunteering for first grade](http://www.flyingpaperclips.com/2004/09/volunteering_for_first_grade.html) | [Main](http://www.flyingpaperclips.com/) | [Sink or Float? »](http://www.flyingpaperclips.com/2004/10/sink_or_float.html)</div>
-
-</div>
-
-<div class="content">
-
-## September 28, 2004
-
-<div class="blogbody">
-
-### Magnetism
++++
 
 Our first day of science explored magnetism. The kids put on their invisible science caps and we told them they would be scientists. I asked them if anyone knows what a scientist does. We gradually steered their wide range of answers to talking about sceintists asking questions about the world around them and figuring out how things work.
 

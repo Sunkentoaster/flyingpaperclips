@@ -1,24 +1,8 @@
-<div id="container">
-
-<div id="banner">
-
-# [Flying Paperclips](http://www.flyingpaperclips.com/)
-
-<span class="description">and more science projects for kids</span></div>
-
-<div class="content">
-
-<div id="menu">[« Flying Paperclips](http://www.flyingpaperclips.com/2005/01/flying_paperclips.html) | [Main](http://www.flyingpaperclips.com/) | [Intro to Measurement »](http://www.flyingpaperclips.com/2005/02/intro_to_measurement.html)</div>
-
-</div>
-
-<div class="content">
-
-## January 30, 2005
-
-<div class="blogbody">
-
-### Titan
++++
+date = "2005-03-01"
+categories = ["activity"]
+title = "Titan"
++++
 
 A spaceship named Cassini left Earth before most first graders were born, and two weeks ago the Huygen's probe landed on Titan, Saturn's largest moon and sent back pictures.
 
@@ -34,7 +18,7 @@ We also talked about how cold it is on Titan. Ms. B brought in a thermometer and
 
 I had prepared to do a science project where they could act out the scale of the solar systems ([worksheet](http://www.challenger.org/tmn/pdf/2/VOYAGETH.PDF)) from [Teachable Moments in the News](http://www.challenger.org/tmn/summer_04/update_cassini.html), but the presentation took a whole hour. Undeterred, Ms. B, their ispired teacher, agreed to do the acitivity during their afternoon P.E. class -- so they all got to do "Planet P.E." I'm sorry I missed that, but I heard rave reviews when I got home.
 
-**Timeline**  
+## Timeline
 1610: Saturn rings sighted by Galileo Galilei. Although he saw the rings first, Galileo did not know what they were. They appeared to him as 'ears' or lobes either side of the planet.  
 1612: Galileo sees that rings seem to vanish  
 1655: Dutch astronomer Christiaan Huygens solves mystery of vanishing rings and discovers Titan, Saturn's largest moon (how to [pronounce Huygens](http://frank.harvard.edu/~paulh/misc/huygens.htm)).  
@@ -51,7 +35,7 @@ October 1997: Cassini Mission launched
 
 07.03.04 [Titan's surface revealed](http://www.nasa.gov/mission_pages/cassini/multimedia/pia06407.html)
 
-**More about Titan**
+## More about Titan
 
 Titan is the largest moon of Saturn, the second largest in the Solar System (after Ganymede of Jupiter). It was discovered by Christiaan Huygens in 1655.  
 
@@ -73,9 +57,3 @@ However, it is unlikely that Titan is a site for life today. But scientists are 
 -- from the [ESA site](http://www.esa.int/SPECIALS/Cassini-Huygens/SEM696HHZTD_0.html)
 
 So how do they know that the atmosphere is mostly nitrogen and has methane? All of the articles I read talked about methane on Titan, but none of them said how scientists know. If you have read this far and you know the answer, please leave a comment. None of the kids asked this question, but I've been really wondering.
-
-<a name="more"></a><span class="posted">Posted by Sarah at January 30, 2005 05:25 PM | [TrackBack](http://WWW.ultrasaurus.com/cgi-bin/mt/mt-tb.cgi?__mode=view&entry_id=296)</span> </div>
-
-</div>
-
-</div>

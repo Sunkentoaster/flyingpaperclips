@@ -1,7 +1,7 @@
 +++
 date = "2005-01-16"
 categories = ["experiment"]
-title = "flying Paperclips"
+title = "Flying Paperclips"
 
 +++
 

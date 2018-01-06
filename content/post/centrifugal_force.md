@@ -1,7 +1,7 @@
 +++
-date = "2005-8-20"
+date = "2005-08-20"
 categories = ["experiment"]
-title = "centrifugal force"
+title = "Centrifugal Force"
 
 +++
 

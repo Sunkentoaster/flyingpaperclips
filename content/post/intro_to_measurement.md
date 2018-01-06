@@ -1,10 +1,8 @@
 +++
 date = "2005-02-03"
-categories = ["experiment"]
+categories = ["activity"]
 title = "Intro to Measurement"
-
 +++
-
 
 Typically I prepare for science class at the last minute and I've been really lucky. All my science experiments have worked out when tried the night before. I may have gotten too ambitious in creating my own [ferrofluid](http://www.pulse8.i8.com/indexmag.html) (I made ferromud) or building my own [thermometer](http://www.energyquest.ca.gov/projects/thermometer.html) (too easy to make the play-dough appear to change the temperature).
 
@@ -18,7 +16,7 @@ Now, suppose I couldn't take the pointer with me. How would I measure the rug? O
 
 I think most of the kids had fun, and measurement is a key concept for scientific activities. However, later that day, my son said that it was even more boring than putting rocks in water. (For the record, there were some kids who wanted to repeat the section where they put rocks in water.)
 
-**Historical notes**
+## Historical notes
 
 **Inch**: At first an inch was the width of a man's thumb. In the 14th century, King Edward II of England ruled that 1 inch equal 3 grains of barley placed end to end lengthwise. -- [Origins of Measurement](http://www.factmonster.com/ipka/A0769529.html)
 
