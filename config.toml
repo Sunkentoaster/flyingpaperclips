@@ -155,3 +155,9 @@ paginate = 10
 	url  = "categories/notes/"
 	weight = 15
 
+[[menu.main]]
+	name = "About"
+	url  = "post/about/"
+	weight = 0
+
+
