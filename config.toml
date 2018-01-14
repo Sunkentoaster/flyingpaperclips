@@ -47,10 +47,9 @@ paginate = 10
 
 
 	[params.about]
-		hide  = true
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
-
+		hide  = false
+		title = "Science is Fun"
+		content = "Kids are natural scientists. This collection of notes, experiments and activities is based on the experience of teaching science starting with first grade. Science is a great way to teach vocabulary and writing as well. We hope to inspire others who work with kids to teach basic science, and pass on the shared wisdom originally collected from various sources on the Internet, along with stories from the classroom."
 
 	[params.portfolio]
 		hide  = true
@@ -135,12 +134,24 @@ paginate = 10
 
 
 # Menu links that appear on the left sidebar
+
 [[menu.main]]
 	name = "Home"
 	url  = "/"
+	weight = 1
+
+[[menu.main]]
+	name = "Experiments"
+	url  = "categories/experiment"
+	weight = 5
+
+[[menu.main]]
+	name = "Activities"
+	url  = "categories/activity/"
 	weight = 10
 
 [[menu.main]]
-	name = "Blog"
-	url  = "post/"
-	weight = 0
+	name = "Notes"
+	url  = "categories/notes/"
+	weight = 15
+
