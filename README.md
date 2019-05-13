@@ -1,3 +1,12 @@
+
+## Setup
+```
+brew install hugo
+git clone ...
+git submodule update --init
+```
+
+
 to run the site locally, type `hugo server -D` within the flyingpaperclips directory
 
 
@@ -10,7 +19,7 @@ to do:
 
 ## Deployment
 
-Deployed using Firebase Hosting.  We may need to do `firebase login` 
+Deployed using Firebase Hosting.  We may need to do `firebase login`
 
 ```
 hugo              # generates files in public folder
